@@ -1,4 +1,4 @@
-##📄 GOTJOEDFOLIO - Web-Based PDF Suite
+## 📄 GOTJOEDFOLIO - Web-Based PDF Suite
 
 An open-source, client-side HTML-based PDF editor inspired by Adobe Acrobat Pro. Perform advanced PDF manipulation—including editing text, converting formats, organizing pages, filling forms, and applying e-signatures—directly within your web browser without uploading files to external servers.
 
