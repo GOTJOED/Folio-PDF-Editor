@@ -2,12 +2,12 @@
 
 An open-source, client-side HTML-based PDF editor inspired by Adobe Acrobat Pro. Perform advanced PDF manipulation—including editing text, converting formats, organizing pages, filling forms, and applying e-signatures—directly within your web browser without uploading files to external servers.
 
-##Preview
+## Preview
 <img width="1918" height="963" alt="image" src="https://github.com/user-attachments/assets/bdc0ef7e-18d9-4825-a5d3-77f2dc1f5f63" />
 <img width="233" height="890" alt="image" src="https://github.com/user-attachments/assets/b17ef192-ddb6-4292-9bae-994eb41649ca" />
 
 
-##✨ Features
+## ✨ Features
 
 ✏️ Create & Edit
 
