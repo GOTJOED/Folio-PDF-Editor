@@ -43,3 +43,6 @@ Protect PDFs: Secure sensitive files with password encryption and custom permiss
 
 Privacy-First Architecture: Processing runs 100% locally inside your web browser—your documents never leave your machine.
 
+## How to use
+
+Download gotjoedfolio.html, then open on any browser application
